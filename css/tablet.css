@@ -1,0 +1,28 @@
+@import url(desktop.css);
+.header .container {
+    flex-direction: column;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.boxes .container {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.contact {
+    width: 70%
+}
+
+.generic-text p {
+    padding: 0 40px;
+}
+
+
+/* 
+
+Name: Chirag Parmar
+Last 3 Digits of SID: 174
+
+*/
